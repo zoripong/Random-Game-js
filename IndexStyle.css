@@ -1,0 +1,21 @@
+#background
+{
+  width:910px;
+  height:100%;
+  background-image: url("image\\background_index.jpg");
+  background-repeat: no-repeat;
+  position : absolute;
+  left : 20%;
+
+}
+#box
+{
+  position : absolute;
+  top : 150px;
+  left : 120px;
+}
+#title
+{
+  margin-left: 70px;
+  margin-top: -70px;
+}
